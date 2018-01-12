@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Implementation-Title: JBoss EAP Quickstart: helloworld-rs
+Implementation-Version: 7.1.0.GA
+Java-Version: 1.8.0_151-1-redhat
+Built-By: SYSTEM
+Scm-Connection: scm:git:git@github.com:jboss/jboss-parent-pom.git/quic
+ kstart-parent/helloworld-rs
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: JBoss EAP Quickstart: helloworld-rs
+Implementation-Vendor-Id: org.jboss.eap.quickstarts
+Java-Vendor: Oracle Corporation
+Os-Name: Windows 7
+Scm-Url: http://github.com/jboss/jboss-parent-pom/quickstart-parent/he
+ lloworld-rs
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 6.1
+Scm-Revision: 
+Build-Jdk: 1.8.0_151-1-redhat
+Specification-Version: 7.1
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://www.jboss.org/jdf/quickstarts/get-started/h
+ elloworld-rs/
+
